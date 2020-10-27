@@ -1,0 +1,3 @@
+cd unpv13e/
+git rm --cached *.lc
+git clean -fx
